@@ -1,0 +1,10 @@
+PYTHON FILES:
+
+sympathy_game.py: 
+	- File to train sympathetic agent in Gridworld 1.
+	- Default c = 1. Can be changed within the code.
+	- If agents.sympathetic_mode = False, agent behaves selfishly
+
+sympathy_game_robust.py:
+	- Robust version of sympathy training.
+	- Default c = 1. Can be changed within the code
